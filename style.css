@@ -1,0 +1,49 @@
+        body{
+            background-color: rgb(243, 238, 133) ;
+        }
+        h1{
+            font-family: cursive;
+            
+        }
+        #foto {
+            border: 5px solid black;
+            float: left;
+            margin-right: 20px;
+            width: 200px;
+        }
+        #descriçao{
+            font-family: cursive ;
+            
+        }
+        .habilidades{
+            font-size: 17px;
+            font-style: italic;
+        }
+        
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        #nome h1{
+            text-align: center;
+        }
+        
+        
+        .minha-descriçao{
+            background-color: rgba(81, 228, 52, 0.199);
+            border: 5px solid black;
+            height: 310px;
+            
+             }
+             #lista ul{
+                text-align: center;
+             }
+             #lista ul li{
+                display: inline-block;
+                margin: 0 50px;
+                
+             }
+             .habilidades li:nth-child(odd){
+                color: aqua;
+
+             }
